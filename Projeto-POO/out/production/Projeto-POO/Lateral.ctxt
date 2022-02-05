@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lateral
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Lateral\ aqui.\r\n\ \r\n\ @author\ (Gerson\ Junior)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ numeroJogador\ velocidade\ resistencia\ destreza\ implusao\ cabecear\ remate\ passe\ cruzamento\ valorJogador\ historial
+comment1.target=Lateral(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ double,\ java.util.List)
+comment2.params=
+comment2.target=double\ valorJogador()
+comment3.params=
+comment3.target=Jogador\ clone()
+numComments=4

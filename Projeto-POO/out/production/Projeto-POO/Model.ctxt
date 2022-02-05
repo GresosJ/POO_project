@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Model
+comment1.params=
+comment1.target=Model()
+comment2.params=j
+comment2.target=void\ createJogador(Jogador)
+comment3.params=e
+comment3.target=void\ createEquipa(Equipa)
+comment4.params=j\ t
+comment4.target=void\ addJogadorToTeam(Jogador,\ java.lang.String)
+comment5.params=j\ t1\ t2
+comment5.target=void\ switchJogador(Jogador,\ java.lang.String,\ java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

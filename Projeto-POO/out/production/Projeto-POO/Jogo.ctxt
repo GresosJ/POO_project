@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=e1\ e2\ estadio
+comment1.target=Jogo(Equipa,\ Equipa,\ int)
+comment2.params=jTitulares1\ jTitulares2\ jSuplentes1\ jSuplentes2
+comment2.target=void\ startJogo(java.util.List,\ java.util.List,\ java.util.List,\ java.util.List)
+numComments=3
